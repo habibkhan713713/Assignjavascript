@@ -1,0 +1,15 @@
+
+destinations=["Paris","haiderabad","Naran Kaghan","saifulmaluk lake","Gilgit"];
+console.log(destinations)
+console.log(destinations.slice().sort())
+console.log(destinations)
+console.log(destinations.slice().sort().reverse())
+console.log(destinations)
+destinations.reverse()
+console.log(destinations)
+destinations.reverse()
+console.log(destinations)
+destinations.sort()
+console.log(destinations)
+destinations.sort().reverse()
+console.log(destinations)
